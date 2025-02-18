@@ -6,4 +6,4 @@ Python 3.11.0 (ARM64) </br>
 https://www.python.org/ftp/python/3.11.0/python-3.11.0-arm64.exe
 
 # Packages
-opencv
+* opencv
