@@ -1,0 +1,14 @@
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\bin\Debug\net8.0\nuget_packages.exe
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\bin\Debug\net8.0\nuget_packages.deps.json
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\bin\Debug\net8.0\nuget_packages.runtimeconfig.json
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\bin\Debug\net8.0\nuget_packages.dll
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\bin\Debug\net8.0\nuget_packages.pdb
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.AssemblyInfoInputs.cache
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.AssemblyInfo.cs
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.csproj.CoreCompileInputs.cache
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.dll
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\refint\nuget_packages.dll
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.pdb
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\nuget_packages.genruntimeconfig.cache
+C:\Users\DFS\Desktop\gitrepo\nuget_packages\obj\Debug\net8.0\ref\nuget_packages.dll

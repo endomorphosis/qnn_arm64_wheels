@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ju3RUP0MfVU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DFS\\Desktop\\gitrepo\\nuget_packages\\nuget_packages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DFS\\.nuget\\packages\\opencv\\2.4.11\\opencv.2.4.11.nupkg.sha512"
+  ],
+  "logs": []
+}
